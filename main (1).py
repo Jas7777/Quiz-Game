@@ -1,7 +1,7 @@
 import random
 
 totalScore = []
-
+print("Plese only use upper case letters when answering")
 
 class user:
     def __init__(self):
